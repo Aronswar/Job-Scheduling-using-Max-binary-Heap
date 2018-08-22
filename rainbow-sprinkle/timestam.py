@@ -32,6 +32,6 @@ def set_priority_val(ID_user):
     print(new_ls)
     next_item=heapq.heappop(q)
     print(next_item)
-new_dict_vla={3:1234566,15:5555,30:2344444 }
+
 
 set_priority_val(new_dict_vla)
