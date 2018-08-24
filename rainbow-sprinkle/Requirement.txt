@@ -1,0 +1,4 @@
+Flask 1.0.2
+Python 3.6.5
+flask-restplus
+pytest 
