@@ -1,4 +1,4 @@
-# rainowproject
+# rainbowproject
 
 
 The project makes use of pythons heapq library to build the needed min binary heap. I have made small tweaks with respect to the priority by multiplying the priority by -1 since we need to get the top most priority on the top. 
