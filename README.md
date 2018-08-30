@@ -34,7 +34,7 @@ As per the requirements the API will be having six different endpoints with resp
     (5) An endpoint to get the position of a specific ID in the queue.
     (6) An endpoint to get the average(mean) wait time. .
 
-how to run:
+how to run the program:
 
 1. Install all the requirements from the requirement.txt file
     you can just run pip install - r requirement.txt
